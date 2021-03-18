@@ -12,11 +12,5 @@ Firstly, you should download all the files than in folder (js) in file catalog.j
       (4) Copypast all text to new file from file db.json which located in folder js
       (5) Press the button "Commit new file"
       
-3. In folder (js) in file catalog.js you should change the profile name instead of YOURGITHUBISHERE to your profile name of github.com
-const carsUrl =
-	"https://my-json-server.typicode.com/YOURGITHUBISHERE/mockjson/cars";
-const jeepsUrl =
-	"https://my-json-server.typicode.com/YOURGITHUBISHERE/mockjson/jeeps";
-const bikesUrl =
-	"https://my-json-server.typicode.com/YOURGITHUBISHERE/mockjson/bikes";
-  
+3. In folder (js) in file catalog.js you should change the profile name instead of sangiers to your profile name of github.com in first six lines
+
