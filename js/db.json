@@ -1,0 +1,98 @@
+{
+	"jeeps": [
+		{
+			"id": "1",
+			"name": "Volvo XC60",
+			"price": "10000",
+			"imageUrl": "https://cdn.motor1.com/images/mgl/X881E/s3/2018-volvo-xc60.jpg"
+		},
+		{
+			"id": "2",
+			"name": "Mitsubishi Pajero",
+			"price": "4700",
+			"imageUrl": "https://avtonovostidnya.ru/wp-content/uploads/2018/08/Mitsubishi-Pajero-2.-Foto-Mitsubishi.jpg"
+		},
+		{
+			"id": "3",
+			"name": "Nissan Patrol",
+			"price": "8900",
+			"imageUrl": "https://avtonovostidnya.ru/wp-content/uploads/2019/06/Nissan-Patrol.-Foto-Nissan.jpg"
+		},
+		{
+			"id": "4",
+			"name": "Mercedes G-Class",
+			"price": "13000",
+			"imageUrl": "https://avtonovostidnya.ru/wp-content/uploads/2018/04/mercedes-benz-g-class-2019-predstavlen-oficialno_12-1024x576.jpg"
+		},
+		{
+			"id": "5",
+			"name": "Toyota Land Cruiser",
+			"price": "3600",
+			"imageUrl": "https://avtonovostidnya.ru/wp-content/uploads/2019/06/Toyota-Land-Cruiser-70.-Foto-Toyota.jpg"
+		}
+	],
+	"cars": [
+		{
+			"id": "6",
+			"name": "Audi A6",
+			"price": "4000",
+			"imageUrl": "https://cdn.motor1.com/images/mgl/6MMme/s3/2005-audi-a6.jpg"
+		},
+		{
+			"id": "7",
+			"name": "Lexus LS460",
+			"price": "5200",
+			"imageUrl": "https://cdn.motor1.com/images/mgl/z22P0/s3/2007-lexus-ls460.jpg"
+		},
+		{
+			"id": "8",
+			"name": "Mercedes-Benz C",
+			"price": "7000",
+			"imageUrl": "https://cdn.motor1.com/images/mgl/bXX3M/s3/2015-mercedes-benz-c-serisi.jpg"
+		},
+		{
+			"id": "9",
+			"name": "Mazda Mx-5",
+			"price": "6500",
+			"imageUrl": "https://cdn.motor1.com/images/mgl/lZZQJ/s3/2016-mazda-mx-5.jpg"
+		},
+		{
+			"id": "10",
+			"name": "BMW 3rd Edition",
+			"price": "5700",
+			"imageUrl": "https://cdn.motor1.com/images/mgl/EMMrN/s3/2006-bmw-3-serisi.jpg"
+		}
+	],
+	"bikes": [
+		{
+			"id": "11",
+			"name": "Kawasaki Ninja 400",
+			"price": "5200",
+			"imageUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1586817825-20ex400g-242wt1drf3cg-a-19104142414.png?crop=1xw:1xh;center,top&resize=768:*"
+		},
+		{
+			"id": "12",
+			"name": "Triumph Thruxton RS",
+			"price": "16200",
+			"imageUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1586818362-screen-shot-2020-04-13-at-6-51-44-pm-1586818354.png?crop=1xw:1xh;center,top&resize=768:*"
+		},
+		{
+			"id": "13",
+			"name": "Ducati Panigale V2",
+			"price": "16495",
+			"imageUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1586818797-panigale-v2-v02-red-my20-model-preview-1050x650-1586818791.png?crop=1xw:1xh;center,top&resize=768:*"
+		},
+		{
+			"id": "14",
+			"name": "KTM 790 Adventure R",
+			"price": "690",
+			"imageUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602776382-screen-shot-2020-04-13-at-5-57-01-pm-1586819098.png?crop=1xw:1xh;center,top&resize=768:*"
+		},
+		{
+			"id": "15",
+			"name": "Harley-Davidson Street Glide",
+			"price": "21,999",
+			"imageUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1586819360-screen-shot-2020-04-13-at-6-02-20-pm-1586819353.png?crop=1xw:1xh;center,top&resize=768:*"
+		}
+	]
+}
